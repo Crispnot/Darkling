@@ -1,0 +1,26 @@
+{
+	"type": "origins:multiple",
+	"darkspeed": {
+		"type": "origins:conditioned_attribute",
+		"modifier": {
+			"attribute": "minecraft:generic.movement_speed",
+			"operation": "addition",
+			"value": 0.05
+		},
+		"condition": {
+			"type": "origins:brightness",
+			"comparison": "<",
+			"compare_to": 0.2
+		}
+	},
+	"darkattack": {
+		"type": "origins:conditioned_attribute",
+		"modifier": {
+			"attribute": "minecraft:generic.attack_damage",
+			"operation": "addition",
+			"value": 3
+		}
+	},
+	"name": "No Light",
+	"description": "Due to light being irretating, you love the darkness and become faster and stronger in it."
+}

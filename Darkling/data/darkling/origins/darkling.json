@@ -1,0 +1,17 @@
+{
+	"powers": [
+		"darkling:cloud_smol",
+		"darkling:burn",
+		"darkling:evolve",
+		"darkling:meat",
+		"darkling:skin",
+		"origins:fragile",
+		"origins:cat_vision",
+		"origins:vegetarian"
+	],
+	"icon": "minecraft:coal",
+	"order": 10,
+	"impact": 3,
+	"name": "Darkling",
+	"description": "A Being Created From The Dark Matter of the Universe (To gain more power find a head of the most powerful being)"
+}

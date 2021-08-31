@@ -1,0 +1,14 @@
+{
+    "type": "origins:action_over_time",
+    "interval": 5,
+    "entity_action": {
+        "type": "origins:execute_command",
+        "permission_level": 4,
+        "command": "origin set @s origins:origin darkling:darkling2"
+    },
+    "condition": {
+        "type": "origins:advancement",
+        "advancement": "minecraft:nether/get_wither_skull"
+    },
+    "hidden": true
+}

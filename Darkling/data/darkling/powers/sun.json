@@ -1,0 +1,14 @@
+{
+	"type": "origins:conditioned_attribute",
+	"modifier": {
+		"attribute": "minecraft:generic.attack_damage",
+		"operation": "multiply",
+		"value": 0.5
+	},
+	"tick_rate": 20,
+	"condition": {
+		"type": "origins:exposed_to_sun"
+	},
+	"name": "Sun weakness",
+	"description": "Feeling the sun on your skin feels uncomfortable, making you weak."
+}

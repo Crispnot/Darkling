@@ -1,0 +1,13 @@
+{
+    "type": "origins:action_over_time",
+    "interval": 5,
+    "entity_action": {
+        "type": "origins:execute_command",
+        "command": "origin set @s origins:origin darkling:darkling3"
+    },
+    "condition": {
+        "type": "origins:advancement",
+        "advancement": "minecraft:nether/summon_wither"
+    },
+    "hidden": true
+}

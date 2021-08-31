@@ -1,0 +1,21 @@
+{
+	"powers": [
+		"darkling:cloud_smol",
+		"darkling:infect",
+		"darkling:evolve2",
+		"darkling:meat",
+		"darkling:saturation",
+		"darkling:skin",
+		"darkling:strength",
+		"darkling:sun",
+		"origins:fragile",
+		"origins:cat_vision",
+		"origins:vegetarian"
+	],
+	"unchoosable": true,
+	"icon": "minecraft:coal_block",
+	"order": 10,
+	"impact": 3,
+	"name": "Darkling",
+	"description": "After Absorbing the Dark energy in the wither skull you have evolved and gained the ability to release dark energy as well (To gain more power summon the most powerful being and gain their blessing)"
+}

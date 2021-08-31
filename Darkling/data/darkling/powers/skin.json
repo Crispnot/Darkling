@@ -1,0 +1,9 @@
+{
+    "type": "origins:model_color",
+    "red": 0.1,
+    "green": 0.1,
+	"blue": 0.1,
+    "alpha": 1.0,
+	"name": "Black Skin",
+	"description": "Due to your nature, your skin is now a black-ish tint"
+}

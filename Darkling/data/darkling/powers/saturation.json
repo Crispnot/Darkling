@@ -1,0 +1,15 @@
+{
+    "type": "origins:action_over_time",
+    "interval": 10,
+    "entity_action": {
+        "type": "origins:feed",
+        "food": 4,
+        "saturation": 2
+    },
+    "condition": {
+        "type": "origins:brightness",
+        "comparison": "<=",
+        "compare_to": 0.5
+    },
+    "hidden": true
+}

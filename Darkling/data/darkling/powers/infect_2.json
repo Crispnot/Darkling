@@ -1,0 +1,14 @@
+{
+    "type": "origins:target_action_on_hit",
+    "cooldown": 50,
+    "entity_action": {
+        "type": "origins:apply_effect",
+        "effect": {
+            "effect": "minecraft:wither",
+            "amplifier": 4,
+            "duration": 50
+        }
+    },
+    "name": "Withering Touch",
+    "description": "Reslease Dark energy in anyone you touch causing them to wither away"
+}
